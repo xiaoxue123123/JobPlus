@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jupiter-2021-spring-1" />
+        <module name="jupiter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jupiter-2021-spring-1" target="1.8" />
+      <module name="jupiter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
